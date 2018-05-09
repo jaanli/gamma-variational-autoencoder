@@ -2,7 +2,7 @@
 
 This is an example implementation of Reparameterized Rejection sampling (Naesseth et al. https://arxiv.org/abs/1610.05683).
 
-There are two examples here:
+There are two examples here, implemented in MXNet:
 
 1. A standard VAE with Gaussian latent variables.
 
